@@ -6,14 +6,14 @@ Assignment for Internshala Internship for Aimed Labs.
 
 # Screenshots
 ## Mobile
-### Potrait
+### Portrait
 ![alt text](https://github.com/arbaazaj/assignment_internshala_arbaaz/blob/master/screenshots/screen_horizontal.png?raw=true)
 
 ### Landscape
 ![alt text](https://github.com/arbaazaj/assignment_internshala_arbaaz/blob/master/screenshots/screen_landscape.png?raw=true)
 
 ## Web
-### Potrait
+### Portrait
 ![alt text](https://github.com/arbaazaj/assignment_internshala_arbaaz/blob/master/screenshots/screen_web.png?raw=true)
 
 ### Tooltip explaining the technique.
